@@ -5,8 +5,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shamak1&label=Visitors&color=orange&style=plastic" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Status-Debugging_Life-red?style=plastic&logo=visual-studio-code" alt="Debugging status" />
-  <img src="https://img.shields.io/badge/Energy_Source-Pure_Determination-brightgreen?style=plastic&logo=battery" alt="Energy level" />
+  <img src="https://img.shields.io/badge/Status-Debugging_Life-brightgreen?style=plastic&logo=visual-studio-code" alt="Debugging status" />
+  <img src="https://img.shields.io/badge/Energy_Source-Coca_Cola-red?style=plastic&logo=coca-cola&logoColor=white" alt="Energy level" />
 </div>
 
 <div align="center">
@@ -29,19 +29,19 @@
 
 ```javascript
 const filip = {
-  officialTitle: "Dynamics 365 CE / Power Platform Developer",
-  actualJob: "Professional Problem Solver & Technical Solution Architect",
-  realSkills: ["Making simple things complicated"],
-  passion: "Explaining to users why their 'simple' request needs 3 weeks! 🐌",
+  officialTitle: 'Dynamics 365 CE / Power Platform Developer',
+  actualJob: 'Professional Problem Solver & Technical Solution Architect',
+  realSkills: ['Making simple things complicated'],
+  passion: `Explaining to users why their 'simple' request needs 3 weeks! 🐌`,
   
   // My debugging process
   debug: function() {
-    console.log("It works on my machine! 🤷‍♂️");
-    return "Have you tried turning it off and on again?";
+    console.log('It works on my machine! 🤷‍♂️');
+    return 'Have you tried turning it off and on again?';
   },
   
   // Current learning adventure
-  learningPath: ["React hooks (getting there!)", "PCF Controls with React", "Whatever cool tech I discover next"]
+  learningPath: ['React hooks (getting there!)', 'PCF Controls with React', 'Whatever cool tech I discover next']
 };
 ```
 
