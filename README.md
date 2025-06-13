@@ -21,11 +21,16 @@
 
 ---
 
+<div align="center">
+
 ## 🎯 About Me (The Honest Version)
+
+</div>
+
 ```javascript
 const filip = {
   officialTitle: "Dynamics 365 CE / Power Platform Developer",
-  actualJob: "Professional Problem Solver &Technical Solution Architect",
+  actualJob: "Professional Problem Solver & Technical Solution Architect",
   realSkills: ["Making simple things complicated"],
   passion: "Explaining to users why their 'simple' request needs 3 weeks! 🐌",
   
@@ -40,7 +45,11 @@ const filip = {
 };
 ```
 
+<div align="center">
+  
 ## 🛠️ My Tech Toolbox
+
+</div>
 
 <div align="center">
 
