@@ -1,28 +1,72 @@
-<h1 align="center">Hi 👋, I'm Filip Shamakoski</h1>
-<h3 align="center">Dynamics 365 CE / Power Platform Developer</h3>
+# 👋 Welcome to Filip's Dev Corner! 💻
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=%3C%2F%3E+Dynamics+365+CE+Developer;%F0%9F%9A%80+Power+Platform+Architect;%E2%9A%A1+Building+Digital+Solutions;%F0%9F%94%A5+Microsoft+Cloud+Expert" alt="Typing Animation"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamak1&label=Profile%20views&color=0e75b6&style=flat" alt="shamak1" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shamak1&label=Visitors&color=orange&style=plastic" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Debugging_Life-red?style=plastic&logo=visual-studio-code" alt="Debugging status" />
+  <img src="https://img.shields.io/badge/Energy_Source-Pure_Determination-brightgreen?style=plastic&logo=battery" alt="Energy level" />
+</div>
 
-- 💼 Dynamics 365 CE / Power Platform Developer with experience in building custom implementations
-- 🛠️ Skilled in Model-Driven Apps, PCF Controls, Power Automate
-- 💻 Comfortable with JavaScript, TypeScript, C#, and currently leveling up in ⚛️ React
-- 🚀 Passionate about building clean, scalable, and user-friendly business solutions
-- 📚 Always learning and exploring new Microsoft Cloud technologies
+<div align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="40px">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" width="40px">
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/filip-shamakoski-438a95147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filip-shamakoski-438a95147" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="500px">
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamak1&show_icons=true&locale=en&layout=compact" alt="shamak1" /></p>
+## 🎯 About Me (The Honest Version)
+```javascript
+const filip = {
+  officialTitle: "Dynamics 365 CE / Power Platform Developer",
+  actualJob: "Professional Problem Solver &Technical Solution Architect",
+  realSkills: ["Making simple things complicated"],
+  passion: "Explaining to users why their 'simple' request needs 3 weeks! 🐌",
+  
+  // My debugging process
+  debug: function() {
+    console.log("It works on my machine! 🤷‍♂️");
+    return "Have you tried turning it off and on again?";
+  },
+  
+  // Current learning adventure
+  learningPath: ["React hooks (getting there!)", "PCF Controls with React", "Whatever cool tech I discover next"]
+};
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamak1&show_icons=true&locale=en" alt="shamak1" /></p>
+## 🛠️ My Tech Toolbox
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamak1/shamak1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shamak1/shamak1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shamak1/shamak1/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+
+### Microsoft Power Platform
+<img src="https://img.shields.io/badge/Dynamics_365_CE-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Canvas_Apps-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_FX-FF6B35?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Custom_Pages-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white" />
+<img src="https://img.shields.io/badge/PCF_Controls-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+### Languages & Frameworks
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+### Daily Fuel
+<img src="https://img.shields.io/badge/Coca_Cola-FF0000?style=for-the-badge&logo=cocacola&logoColor=white" />
+
+### Daily Companion
+<img src="https://img.shields.io/badge/Claude-My_Mentor-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" />
+
+</div>
+
+---
+
+
