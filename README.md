@@ -46,6 +46,20 @@ const filip = {
 ```
 
 <div align="center">
+
+## 💼 The Real Story
+
+---
+
+*Behind the humor lies a serious dedication to the craft.* 
+
+**I specialize in complex Power Platform implementations, with particular expertise in Dynamics 365 CE customizations and a genuine passion for elegant, maintainable solutions.**
+
+---
+
+</div>
+
+<div align="center">
   
 ## 🛠️ My Tech Toolbox
 
@@ -71,11 +85,6 @@ const filip = {
 ### Daily Fuel
 <img src="https://img.shields.io/badge/Coca_Cola-FF0000?style=for-the-badge&logo=cocacola&logoColor=white" />
 
-### Daily Companion
-<img src="https://img.shields.io/badge/Claude-My_Mentor-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" />
-
 </div>
 
 ---
-
-
